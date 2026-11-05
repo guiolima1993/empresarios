@@ -17,10 +17,10 @@
 (function () {
   'use strict';
 
-  var FORM_IFRAME_ID = 'nf-3645a661-0d5a-429e-a3ee-27c01e89bee1';
+  var FORM_IFRAME_ID = 'np-form-3645a661-0d5a-429e-a3ee-27c01e89bee1';
   var FORM_SECTION_ID = 'form';
   var CASE_VIDEO_SELECTOR = '.case-video';
-  var CTA_SELECTOR = '.btn-primary, [data-track-cta]';
+  var CTA_SELECTOR = '.btn, [data-track-cta]';
   // Origem do CRM que hospeda o formulário embutido no iframe.
   var FORM_ORIGIN = 'https://interno.xfranchise.com.br';
 
